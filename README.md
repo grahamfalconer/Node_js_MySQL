@@ -1,2 +1,1 @@
-# databases_sql
-My sql databases
+Building databases in sql on node.js
