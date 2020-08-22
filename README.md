@@ -1,2 +1,2 @@
 # databases_sql
-My sql databases,
+My sql databases
